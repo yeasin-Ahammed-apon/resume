@@ -24,6 +24,13 @@ export default {
     data() {
         return {
             projects:[
+		{
+                    id:8,
+                    name:"e-commerce_cart-system_SPA_use-of-localstorage-CRUD_vue2_vuex_vue-router",
+                    github:"https://github.com/yeasin-Ahammed-apon/e-commerce_cart-system_SPA_use-of-localstorage-CRUD_vue2_vuex_vue-router",                    
+                    readmore:"https://github.com/yeasin-Ahammed-apon/e-commerce_cart-system_SPA_use-of-localstorage-CRUD_vue2_vuex_vue-router/blob/main/README.md",
+                    youtube:null
+                },
                 {
                     id:7,
                     name:"vue_todoList_with_localStorage",
